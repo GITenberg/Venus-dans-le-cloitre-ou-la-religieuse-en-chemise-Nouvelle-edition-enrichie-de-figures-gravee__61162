@@ -1,5 +1,8 @@
 _repo: Venus-dans-le-cloitre-ou-la-religieuse-en-chemise-Nouvelle-edition-enrichie-de-figures-gravee__61162
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61162-h/images/cover.jpg
 creator:
   author:
     agent_name: Barrin, Jean
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '51291'
     url: http://www.gutenberg.org/2009/agents/51291
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61162#Venus-dans-le-cloitre-ou-la-religieuse-en-chemise-Nouvelle-edition-enrichie-de-figures-gravee_
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Séduction et libertinage
